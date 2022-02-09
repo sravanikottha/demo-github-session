@@ -6,4 +6,4 @@ this is the github session
 thank you.
 
 
-Have fun.
+git is the local repository

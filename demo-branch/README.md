@@ -2,3 +2,5 @@
 
 
 git branching
+
+branching syntax
